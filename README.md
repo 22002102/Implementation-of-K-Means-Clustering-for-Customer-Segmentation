@@ -68,11 +68,23 @@ plt.title("Customer segments")
 ## Output:
 ![K Means Clustering for Customer Segmentation](sam.png)
 ![image](https://github.com/22002102/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119091638/fbcd1e35-2b91-409d-8546-b6102ce69f5a)
+
+
 ![image](https://github.com/22002102/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119091638/64e275e0-462c-46c9-bd2a-f96fdd1818d3)
+
+
 ![image](https://github.com/22002102/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119091638/9fe28a96-e0a8-4abc-8a27-95b5a3b09639)
+
+
 ![image](https://github.com/22002102/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119091638/6b27e53c-1add-4d42-95a2-df3ac9b0d118)
+
+
 ![image](https://github.com/22002102/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119091638/9323f6c6-621c-4cff-b1cc-d67f65599482)
+
+
 ![image](https://github.com/22002102/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119091638/6d79e92c-5cf3-4693-b4f4-26e88c28b53f)
+
+
 ![image](https://github.com/22002102/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119091638/ab96f875-937f-4820-8933-84b7489085a4)
 
 
